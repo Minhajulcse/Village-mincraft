@@ -1,0 +1,3 @@
+/home/anup/Documents/rural_market/build/CMakeFiles/rural_market.dir
+/home/anup/Documents/rural_market/build/CMakeFiles/edit_cache.dir
+/home/anup/Documents/rural_market/build/CMakeFiles/rebuild_cache.dir
